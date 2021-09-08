@@ -1,4 +1,7 @@
 #########ANOVA
+#Clinical study to analyze the effect of calcium taking into account two factors sex(male & female) and bone types.
+#To determine if the effect is different between any of the levels of each variable by itself or in combination.
+
 #Response variable (CI) 
 #Two categorical variable; gender with two labels (male and female) & Bone with 3 labels (OO, OA AND ND)
 
